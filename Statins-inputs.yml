@@ -1,0 +1,81 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/statins-ratiopharm---primary.py
+inputModule3:
+  class: File
+  path: python/statins-pravastatin---primary.py
+inputModule4:
+  class: File
+  path: python/statins-arrow---primary.py
+inputModule5:
+  class: File
+  path: python/statins-simvastatin---primary.py
+inputModule6:
+  class: File
+  path: python/statins-400microgram---primary.py
+inputModule7:
+  class: File
+  path: python/statins-discovery---primary.py
+inputModule8:
+  class: File
+  path: python/statins-hillcross---primary.py
+inputModule9:
+  class: File
+  path: python/statins-zocor---primary.py
+inputModule10:
+  class: File
+  path: python/statins-rosuvastatin---primary.py
+inputModule11:
+  class: File
+  path: python/statins-niche---primary.py
+inputModule12:
+  class: File
+  path: python/statins-pfizer---primary.py
+inputModule13:
+  class: File
+  path: python/statins-dexcel---primary.py
+inputModule14:
+  class: File
+  path: python/statins-atorvastatin---primary.py
+inputModule15:
+  class: File
+  path: python/statins-actavis---primary.py
+inputModule16:
+  class: File
+  path: python/statins-astrazenec---primary.py
+inputModule17:
+  class: File
+  path: python/chewable-statins---primary.py
+inputModule18:
+  class: File
+  path: python/statins-sugarfree---primary.py
+inputModule19:
+  class: File
+  path: python/statins-squibb---primary.py
+inputModule20:
+  class: File
+  path: python/statins-suspension---primary.py
+inputModule21:
+  class: File
+  path: python/statins-wockhardt---primary.py
+inputModule22:
+  class: File
+  path: python/statins-lescol---primary.py
+inputModule23:
+  class: File
+  path: python/statins-ranbaxy---primary.py
+inputModule24:
+  class: File
+  path: python/statins-fluvastatin---primary.py
+inputModule25:
+  class: File
+  path: python/statins-sandoz---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
